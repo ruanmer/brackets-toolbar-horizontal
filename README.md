@@ -1,1 +1,1 @@
-Toggle Toolbar view based on Sidebar view.
+Move toolbar from vertical (right) to horizontal (top).
