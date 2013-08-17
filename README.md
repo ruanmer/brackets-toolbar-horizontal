@@ -1,0 +1,1 @@
+Toggle Toolbar view based on Sidebar view.
